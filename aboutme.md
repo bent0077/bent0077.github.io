@@ -11,7 +11,7 @@ My name is Sashea. I like everything about cats and I have the following qualiti
 - Personal interest in cats/ cat related stuff.
 
 
-What else do you need to know?
+I know very little about cats but I still think they are cool.
 
 ### My story
 
