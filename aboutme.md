@@ -3,13 +3,13 @@ layout: page
 title: About me
 ---
 
-My name is sashea. I like cats and I have the following qualities:
+My name is Sashea. I like everything about cats and I have the following qualities:
 
-- Loves cats
-- Thinks cats are great
-- Thinks cats are cool
-- Thinks cats are superior to humans
-- Thinks cats are better than dogs
+- I'm a great cook.
+- I can spin around really fast without getting sick.
+- Sometimes I'm nice.
+- Personal interest in cats/ cat related stuff.
+
 
 What else do you need to know?
 
