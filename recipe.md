@@ -6,7 +6,7 @@ subtitle: How to make cat cookies
 
 This is how to make cat cookies for your cat. Why? because your cat deserves it.
 
-### Ingridents
+### Ingredients
 
 - 6 ounces undrained tuna
 - 1 cup flour
