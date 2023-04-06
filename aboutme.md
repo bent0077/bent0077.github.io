@@ -1,16 +1,18 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is sashea. I like cats and I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Loves cats
+- Thinks cats are great
+- Thinks cats are cool
+- Thinks cats are superior to humans
+- Thinks cats are better than dogs
 
-What else do you need?
+What else do you need to know?
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Since I was a kid, I've always wanted a cat but my dad doesn't like them so I still don't have a cat. It makes me very sad.
