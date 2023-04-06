@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Recipes
-subtitle: How to make cat cookies
+subtitle: How to Make Cat Cookies
 ---
 
-This is how to make cat cookies for your cat. Why? because your cat deserves it.
+This is how to make cat cookies for your cat. Why? because your cat deserves it. I've made this recipe once even though I don't have a cat. Humans can eat it too but it doesn't taste good.
 
 ### Ingredients
 

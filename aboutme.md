@@ -15,4 +15,4 @@ What else do you need to know?
 
 ### My story
 
-Since I was a kid, I've always wanted a cat but my dad doesn't like them so I still don't have a cat. It makes me very sad. That is my villain origin story.
+Since I was a kid, I've always wanted a cat. Sadly, my dad doesn't like them so I still don't have a cat. It makes me very sad. That is my villain origin story.
