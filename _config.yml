@@ -22,9 +22,9 @@ author: Some Person
 navbar-links:
   About Me: "aboutme"
   Cat treat Recipes: "recipe"
-  Why cats are better than any other pet: "betterpets"
-  Best cat toys to buy: "buy"
-  Are cats better than you? Yes they are: "better"
+  cats > you: "you"
+  cat blog: "blog"
+  cats > other pets: "better"
 ################
 # --- Logo --- #
 ################
