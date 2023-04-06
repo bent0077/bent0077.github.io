@@ -3,7 +3,7 @@ layout: post
 title: Why your Cat is Scratching So Much.
 subtitle: Spoiler, It's your Fault.
 cover-img: /assets/img/kitty.jpeg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/kitty.jpeg
 share-img: /assets/img/kitty.jpeg
 tags: [cats, behaviour, shame]
 ---
